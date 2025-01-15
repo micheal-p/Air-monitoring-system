@@ -8,11 +8,11 @@ A web application that monitors air quality in Nigerian cities using real-time d
 
 ## Features
 
-- **Real-Time Data Fetching**: Fetches air quality data from OpenWeatherMap API.
-- **Data Visualization**: Visualizes pollutant levels using Matplotlib and Seaborn.
-- **Air Quality Index (AQI)**: Calculates and displays AQI percentage score.
-- **Historical Data Storage**: Stores data in SQLite for future reference.
-- **Interactive UI**: Provides an interactive user interface using Streamlit.
+- Real-Time Data Fetching: Fetches air quality data from OpenWeatherMap API.
+- Data Visualization: Visualizes pollutant levels using Matplotlib and Seaborn.
+- Air Quality Index (AQI): Calculates and displays AQI percentage score.
+- Historical Data Storage: Stores data in SQLite for future reference.
+- Interactive UI: Provides an interactive user interface using Streamlit.
 
 ## Demo
 
